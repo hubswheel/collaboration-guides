@@ -1,6 +1,8 @@
 # Guidelines for Effective Collaboration
 
-We are a distributed team, therefore effective communication is one of the most important foundations on which we build our technology and our group. Below you will find a thorough guide to enable your work and empower your teammates to get their stuff done, while keeping interruptions to a minimum. These guidelines apply to LCS employees and consultants who work with LCS Engineering Teams
+These guidelines stem from [a piece created for ride.com staff](https://github.com/ride/collaboration-guides) published under an [Attribution-ShareAlike license](license.md). The document is open for discussion and modification. Team input is encouraged so we can build and grow together.
+
+We are a distributed team, therefore effective communication is one of the most important foundations on which we build our technology and our group. Below you will find a thorough guide to enable your work and empower your teammates to get their stuff done, while keeping interruptions to a minimum. These guidelines apply to LCS employees and consultants who work with LCS Engineering Teams.
 
 ![Philetairus sociaus](sociable-weaver.jpg "Sociable Weaver in its nest")
 
@@ -138,7 +140,7 @@ The general rule is, make sure your availability is not a blocker for the team.
 
 ## Final comments
 
-Since there is a [direct relationship between how we communicate and how we perform as a team](http://eprints.qut.edu.au/30311/1/Stacey_Hassall_Thesis.pdf), these guidelines aim to make ourselves better as a team, while we build excellent software and products. This document is open for discussion and your input is encouraged so we can grow together.
+Since there is a [direct relationship between how we communicate and how we perform as a team](http://eprints.qut.edu.au/30311/1/Stacey_Hassall_Thesis.pdf), these guidelines aim to make ourselves better as a team, while we build excellent software and products.
 
 [support]: https://mghlcshub.pagerduty.com/schedules
 [slack-directory]: https://lcshub.slack.com/team
