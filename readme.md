@@ -1,10 +1,10 @@
 # Guidelines for Effective Collaboration
 
-We are a distributed team, therefore effective communication is one of the most important foundations on which we build our technology and our group. Below you will find a thorough guide to enable your work and empower your teammates to get their stuff done, while keeping interruptions to a minimum. These guidelines apply to LCS employees and consultants who work with LCS Engineering Teams.
+Effective communication is one of the most important foundations on which we build our technology and our group. This is a guide to help enable your work and empower your teammates to get their stuff done, while keeping interruptions to a minimum. This is for all team members (including consultants).
 
 ![Philetairus sociaus](sociable-weaver.jpg "Sociable Weaver in its nest")
 
-*"[Sociable Weaver (Philetairus socius) in its nest](https://www.flickr.com/photos/berniedup/6537732583)" by [berniedup](https://www.flickr.com/photos/berniedup/), used under [CC BY](http://creativecommons.org/licenses/by/2.0/) / cropped by crb*
+*"[Sociable Weaver (Philetairus socius) in its nest](https://www.flickr.com/photos/berniedup/6537732583)" by [berniedup](https://www.flickr.com/photos/berniedup/), used under [CC BY](http://creativecommons.org/licenses/by/2.0/) / modified by crb*
 
 
 ## What to do if I need help
@@ -40,8 +40,7 @@ Sometimes it's easier to look for other people who already possess certain infor
   - expect said person has followed the above process before they reached out to you
   - be patient
 - excercise good time management
-  - If you can't get to it at the moment, say so. "sorry john, I can't help you right now, can this wait a couple hours?"
-  - The only person who *has* to respond to any question in less than an hour is @buritica
+  - If you can't get to it at the moment, say so. "sorry carl, I can't help you right now, can this wait a couple hours?"
 - assess if the other person is blocked
   - Must they solve this in less than two hours?
   - Are you the only person who has this information? (please document so it's easier next time)
@@ -49,7 +48,7 @@ Sometimes it's easier to look for other people who already possess certain infor
 - If you know where this information is, share the link
 - Don't use passive-aggressive language
   - as I/someone else said before/last week/hour/50 times
-- Move the conversation to a public forum so others can benefit from knowledge and there is a record for future reference.
+- Move the conversation to a group forum so others can benefit from knowledge and there is a record for future reference.
 
 ## If you notice someone in need of help
 - point them in the right direction
@@ -58,9 +57,9 @@ Sometimes it's easier to look for other people who already possess certain infor
   - as I/someone else said before/last week/hour/50 times
 
 ## Argument or ineffective discussion etiquette over written mediums
-- If you're not involved, suggest a phonecall :phone:
+- :phone: If you're not involved, suggest a phonecall.
+- :phone: If you are involved, ask for a call.
 - Don't add noise, like jokes or emojis, it makes discussions worse.
-- If you are involved, ask for a call.
 - Be polite and respectful, always.
 - If you are upset, step away for a 10 minute walk and come back.
 - If you notice someone else is upset, suggest a break but don't force it.
@@ -89,41 +88,45 @@ Sometimes it's easier to look for other people who already possess certain infor
 - If you need a response in less than 4 hours, be mindful of interruptions or ask @buritica or your manager for help first
 - **Any problem that needs to be solved in less than 4 hours should be handled by [Engineering Support rotation][support]**
 
-#### Acking
-- acking (replying to an email with `ack`) is an easy way to help others know we're in sync
-- where does ack come from? [read this][ack]
+#### Acking (Acknowledging) 
+- acking (replying to an email with `ack`) is an easy way to help others know you are in sync
 - **don't reply all**
+- where does ack come from? [read this][ack]
 
-#### Subject Labels
+#### Subject Keywords
+
+- In the military, a poorly formatted email may be the difference between mission accomplished and mission failure. [Read this for more info on subject keywords, keeping the bottom line up front, and being economical when it comes to emails][mil-email]
 
 |       label       |                      definition                     |
 |-------------------|-----------------------------------------------------|
-| [ack]             | sender requires acknowledgement within 12 hours     |
-| [broadcast]       | no ack needed                                       |
-| [action-needed]   | you need to do something besides reading this email |
-| [response-needed] | you need to reply with something besides ack        |
-| [xxxx-24]         | modifies any label to default to 24 normal hours    |
-| [xxxx-48]         | 2 days to reply or act upon                         |
-| [xxxx-72]         | 3 days to reply or act upon                         |
+| [ack]             | Sender requires acknowledgement                     |
+| [info]            | Information only, no acknowledgment needed          |
+| [action]          | Compulsory for the recipient to take some action    |
+| [decision]        | Requires a decision by the recipient                |
+| [request]         | Seeks permission or approval by the recipient       |
+| [coord]           | Coordination by or with the recipient is needed     |
+| [x-24]            | Modifies label for replay or action within 24 hrs   |
+| [x-48]            | 2 days to reply or act upon                         |
+| [x-72]            | 3 days to reply or act upon                         |
 |                   |                                                     |
 
 ## Availability Etiquette
 
 The general rule is, make sure your availability is not a blocker for the team.
 
-- Engineering team overall should be generally available during BOS 9:30am - 5:30pm (coverage is important)
+- Engineering team overall should be generally available during BOS 10am - 5:30pm (coverage is important)
 - You are free to work on your own schedule
 - If you use your home timezone, overlap at least 4 hours and attend any necessary meetings that require you
 - If you'll be unavailable (unreachable) for 1 or more hours during 9:30am to 5:30pm BOS:
   - make sure someone can cover you, or knows where to find you in case of downtime or urgent issue
   - send an email to team@hub informing the change with at least 24hrs notice and who is covering you
   - no need to go into details about the nature of the appointment/absensce
-  - add it to the [Availibility Calendar][availz-cal]
+  - add it to the [Availibility Calendar][avail-cal]
     - if I had to go to dentist: `crb - off the grid - 1hr`
 - If you'll be traveling, working remote, or taking time off:
   - make sure someone can cover you, or knows where to find you in case of downtime or urgent issue
   - send an email to team@hub at least 1 week in advance, and where to find you in case of downtime or urgent issue
-  - add it to the [Availibility Calendar][availz-cal]
+  - add it to the [Availibility Calendar][avail-cal]
     - if I would be working from a city that is not my base, during the BOS timezone: `crb - remote - chicago`
     - if I would be working remote, sticking to a different timezone: `crb - remote - unavailable due to timezone`
     - if I am taking time off: `crb - off-the-grid`
@@ -146,9 +149,11 @@ The document is open for discussion and modification. Team input is encouraged s
 [slack-directory]: https://lcshub.slack.com/team
 [lazyweb]: http://lmgtfy.com/?q=lazyweb
 [ack]: https://gist.github.com/buritica/da847e11d8a6087433dc
+[mil-email]: https://hbr.org/2016/11/how-to-write-email-with-military-precision
 [tldr]: https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read
 [hemingway]: http://www.hemingwayapp.com/
-[availz-cal]: http://oncall.mgh.harvard.edu/oncall/lcs/oof.asp
+[avail-cal]: http://oncall.mgh.harvard.edu/oncall/lcs/oof.asp
+
 
 ## Credits
 
